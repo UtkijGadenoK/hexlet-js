@@ -1,6 +1,6 @@
-console.log('Hello, Hexlet\!');
+console.log("Hello, Hexlet!");
 
 // Так импортируется код из пакета
 import _ from "lodash";
 
-console.log(_.last(['one', 'two']));
+console.log(_.last(["one", "two"]));
